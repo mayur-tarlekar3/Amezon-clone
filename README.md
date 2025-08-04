@@ -1,0 +1,1 @@
+<p> this is a amazon  clone </p>
